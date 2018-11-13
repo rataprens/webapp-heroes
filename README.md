@@ -15,6 +15,7 @@ Ejemplo de WebApp con Angular 6 + Bootstrap 4
 ![heroes_screen3](https://user-images.githubusercontent.com/19628502/48391338-e729ac00-e6e4-11e8-9dd0-231671378009.png)
 
 ### Buscador
+![heroes_screen4](https://user-images.githubusercontent.com/19628502/48391382-18a27780-e6e5-11e8-82cd-e1ba1c6c7db1.png)
 
 ## Link de la pagina
 https://rataprens.github.io/webapp-heroes/#/home
