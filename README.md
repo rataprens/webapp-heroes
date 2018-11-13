@@ -12,6 +12,7 @@ Ejemplo de WebApp con Angular 6 + Bootstrap 4
 ![heroes_screen2](https://user-images.githubusercontent.com/19628502/48391251-8c905000-e6e4-11e8-9024-2296d87b09d2.png)
 
 ### Descripcion Heroe
+![heroes_screen3](https://user-images.githubusercontent.com/19628502/48391338-e729ac00-e6e4-11e8-9dd0-231671378009.png)
 
 ### Buscador
 
